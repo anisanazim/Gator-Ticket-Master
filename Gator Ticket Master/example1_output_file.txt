@@ -1,0 +1,9 @@
+5 Seats are made available for reservation
+Total Seats Available : 5, Waitlist : 0
+User 1 reserved seat 1
+User 2 reserved seat 2
+User 1 canceled their reservation
+User 3 reserved seat 1
+Seat 1, User 3
+Seat 2, User 2
+Program Terminated!!
